@@ -99,7 +99,9 @@ Run drone_take_off/pathfinding/object_dectection/spawns_target
 
 ## Authors
 
-Huy Pham - Project Manager / Testing environment / Optimizing explore parameters / Scripts - huygphamho@gmail.com
+Huy Pham - Project Manager / Testing environment / Optimizing explore parameters / Scripts
+
+Daniel Cisneros - Gazebo Simulation Specialist / Simulation environment / Images for AI training
 
 Bryce Hitchcock - Robotic Specialist / Move base / Hector quadrotor / Navigation
 
@@ -107,4 +109,3 @@ Keifer Wheatley - Pathfinding Specialist / Explore_lite / Merge map / Navigation
 
 Raymond Price - Object Dectetion Specialist / YOLOv5 training / Machine learning / Object Dectetion
 
-Daniel Cisneros - Gazebo Simulation Specialist / Simulation environment / Images for training
