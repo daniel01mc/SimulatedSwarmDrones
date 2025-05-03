@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- start world -->
+  <include file="$(find autonomous_turtlebot3_swarm)/launch/start_world.launch">
+    </include>
+
+  <!-- include our robots -->
+  <include file="$(find multiple_quadrotors_sim)/src/launch/robots.launch"/>
+</launch>
